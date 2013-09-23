@@ -14,13 +14,11 @@
     {
       "interface": "net0",
       "nic_tag": "admin",
-      "gateway": "192.168.1.254",
       "primary": true,
-      "ip": "192.168.1.40",
-      "netmask": "255.255.255.0"
+      "ip": "dhcp"
     }
   ],
   "resolvers": [
-    "192.168.1.254"
+    "RESOLVER HERE!!!"
   ]
 }
