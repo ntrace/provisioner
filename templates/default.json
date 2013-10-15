@@ -17,8 +17,5 @@
       "primary": true,
       "ip": "dhcp"
     }
-  ],
-  "resolvers": [
-    "RESOLVER HERE!!!"
   ]
 }
